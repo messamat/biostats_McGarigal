@@ -1,4 +1,3 @@
-
 all.subsets.gam <-
 function(y,x.smooth,x.parametric=NULL,
   family=binomial(link=logit),maxp=5,select='all',delta=7,rank=10,...){
